@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>Jimat</title>
+	<atom:link href="https://jimater.blogspot.com" rel="self" type="application/rss+xml" />
+	<link>https://jimater.blogspot.com</link>
+	<description>Jimat - Sajian Malam Jumat Radio Istana FM Bojonegoro</description>
+	<lastBuildDate>Wed, 07 Aug 2019 12:28:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.4</generator>
+
+<image>
+	<url>https://1.bp.blogspot.com/-qBgO4LPow6A/XV5fFktObUI/AAAAAAAAAAk/WBSTUWrtnGcPaXsBoo4J4rqn5U7l8A19ACLcBGAs/s1600/a10.png</url>
+	<title>Jimat - Sajian Malam Jumat</title>
+	<link>https://jimater.blogspot.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">65950383</site>
+<item>
+		<title>Cara Download</title>
+		<pubDate>Fri, 02 Aug 2018 11:10:57 +0000</pubDate>
+		<guid isPermaLink="false">https://jimater.blogspot.com/?p=5087</guid>
+		<description><![CDATA[Untuk melihat update anda bisa melakukan reload playlist dengan menyentuh tombol &quot;<strong>Refresh</strong>&quot;.</p>
+<p style="text-align: center;"><img alt="" src="https://1.bp.blogspot.com/-tYdpJ2pN9yY/XV6eOzX8KgI/AAAAAAAAABA/0qCjZ2lvsLUyqO-AsMfTom9lgx9ZMNrnACLcBGAs/s1600/content_refresh.png" alt="" data-recalc-dims="1"/></p>
+<strong>Cara download dan dengarkan cerita secara offline&nbsp;</strong>:</p>
+<ul>
+	<li>Tekan dan tahan salah satu cerita.</li>
+</ul>
+<p style="text-align: center;"><img alt="" src="https://1.bp.blogspot.com/-CDiMEXSsh8c/XV6eOD_9VkI/AAAAAAAAAA4/lqKvtPUdZxUWNsZslI2FY0PYZzZSsRGYQCLcBGAs/s1600/content_1.png"  alt="" data-recalc-dims="1"/></p>
+<ul>
+	<li>Pilih &quot;<strong>Set as ringtone</strong>&quot;.</li>
+</ul>
+<p style="text-align: center;"><img alt="" src="https://1.bp.blogspot.com/-2tcelCf17ao/XV6eOFtWZ8I/AAAAAAAAAA8/6hvdHl19b_IHo1k1qpDwaORUhwCwSTpWACLcBGAs/s1600/content_2.png" alt="" data-recalc-dims="1"/></p>
+<ul>
+	<li>Hasil download akan disimpan di folder &quot;<strong>Ringtones</strong>&quot;.</li>
+</ul>
+<p style="text-align: center;"><img alt="" src="https://1.bp.blogspot.com/-6XOHeQ80PrU/XV6eOJiY5ZI/AAAAAAAAAA0/hIQrkeC7-yUvJ53zLr_fuG4xu53PRLCjACLcBGAs/s1600/content_3.png" alt="" data-recalc-dims="1"/></p>
+<br/><div class="right">
+
+]]></description>
+</item>	
+</channel>	
+</rss>
